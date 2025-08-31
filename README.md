@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Toqa — coffee lover ☕, curious learner 📚, and developer 💻 exploring the world of frontend and mobile app development.</p>
+<p align="left">I’m Toqa, coffee lover ☕, curious learner 📚, and developer 💻 exploring the world of frontend and mobile app development.</p>
 
 ###
 
